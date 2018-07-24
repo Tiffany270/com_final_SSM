@@ -1,0 +1,5 @@
+2018-07-24 11:44:49 [ INFO] - org.springframework.context.support.ClassPathXmlApplicationContext -AbstractApplicationContext.java(583) -Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@d041cf: startup date [Tue Jul 24 11:44:49 CST 2018]; root of context hierarchy
+2018-07-24 11:44:50 [ INFO] - org.springframework.beans.factory.xml.XmlBeanDefinitionReader -XmlBeanDefinitionReader.java(317) -Loading XML bean definitions from class path resource [spring.xml]
+2018-07-24 11:44:57 [ WARN] - net.sf.ehcache.DiskStorePathManager -DiskStorePathManager.java(162) -diskStorePath 'D:\ehcache' is already used by an existing CacheManager either in the same VM or in a different process.
+The diskStore path for this CacheManager will be set to D:\ehcache\ehcache_auto_created2889298309117690487diskstore.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
